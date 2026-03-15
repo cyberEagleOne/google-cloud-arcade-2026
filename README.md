@@ -29,12 +29,10 @@ This is my official documentation for the **Google Cloud Career Launchpad - APAC
 ## 📂 Repository Structure
 
 My learning logs are organized by **Modules** and **Milestones** to maintain a clean professional record:
-
-- `modules/`: Detailed technical logs, code snippets, and reflections.
+- `modules/`: Detailed technical logs and reflections.
   - `01-data-transformation/`: Labs from late 2025.
   - `02-responsible-ai/`: Core AI ethics and principles.
-  - `03-gemini-app-dev/`: Current progress on GenAI tools.
-- `assets/`: Centralized storage for screenshots, badges, and certificates.
+  - `03-gen-ai-gemini/`: Current progress on GenAI tools (Gemini).
 
 ---
 > 💡 **Latest Update:** Just finished the "Develop an App with Gemini" lab! Exploring how AI-powered collaborators can speed up deployment to Cloud Run while maintaining secure IAM roles.
